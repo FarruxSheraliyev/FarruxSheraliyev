@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/FarruxSheraliyev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Farrux+%F0%9F%91%8B;Frontend+Developer;HTML+%7C+CSS;Based+in+Tashkent%2C+Uzbekistan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Farrux+%F0%9F%91%8B;Frontend+Developer;HTML+%7C+CSS+%7C+C%2B%2B;Based+in+Tashkent%2C+Uzbekistan" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,6 +35,7 @@ const farrux = {
   ],
   techStack: {
     frontend: ["HTML", "CSS"],
+    languages: ["C++"],
     tools:    ["Git", "VS Code", "Figma"],
   },
   languages: ["Uzbek (Native)", "English (B2)"],
@@ -50,6 +51,10 @@ const farrux = {
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp" />
 
 **Tools**
 
